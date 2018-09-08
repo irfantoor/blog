@@ -1,0 +1,13 @@
+{
+    "name": "irfantoor/blog",
+    "description": "Blogging with simplicity, speed and scalability",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irfan TOOR",
+            "email": "email@irfantoor.com"
+        }
+    ],
+    "require": {}
+}
